@@ -26,7 +26,7 @@ github_username:  bricewilson
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-cayman
+remote_theme: artemsheludko/flexible-jekyll
 plugins:
   - jekyll-feed
 
